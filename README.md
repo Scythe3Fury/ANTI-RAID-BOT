@@ -1,10 +1,11 @@
 <h1 align="center">
-  🔗 Yakao 🚀
+  🔗 SCYTHE 🚀
 </h1>
 
-![standard (14)](https://user-images.githubusercontent.com/88579983/221251311-6f482740-b9fc-4768-9ec6-0634c8787914.gif)
+![standard (14)](https://share.creavite.co/67089e037b08427e2459b107.gif)
 
 **NOTE:** \
+# SCYTHE BOT
 This bot is made to protect Discord servers from raids, it can't raid. 
 ---
 ## <a id="menu"></a>🔱 » Menu
@@ -36,12 +37,12 @@ If you want to change the config, open up [config.js](https://github.com/natrixd
 module.exports = {
     app: {
         px: '+',
-        token: 'NzgxMjA0ODUyOTEwOTgxMTYz.GkAM43.t0y1bsPwdKBkfIoU_LWh04eOtNcekjPbCFwRz0',
-        playing: 'Anti Raid',
-        funny: '843204602686078976',
-        support: "https://discord.gg/npNSkCyehT",
+        token: 'Bot Token Here',
+        playing: 'ANTI-RAID',
+        funny: 'Laugh',
+        support: "Scythe",
         color: '#FF0000',
-        footer: 'Yakao'
+        footer: 'Russell'
     }
 }
 ```
