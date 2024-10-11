@@ -2,7 +2,7 @@
   🔗 SCYTHE 🚀
 </h1>
 
-![standard (14)](https://user-images.githubusercontent.com/67089e037b08427e2459b107.gif)
+![standard (10)](https://user-images.githubusercontent.com/67089e037b08427e2459b107.gif)
 
 **NOTE:**
 # SCYTHE BOT
