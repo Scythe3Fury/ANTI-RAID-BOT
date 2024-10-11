@@ -9,10 +9,10 @@
 This bot is made to protect Discord servers from raids, it can't raid. 
 ---
 ## <a id="menu"></a>🔱 » Menu
-
-- [🔰・Features](#features)
-- [🎉・Run It](#setup)
-- [⚙・Config](#config)
+- Features -
+- [🔰・Admin](https://github.com/Scythe3Fury/ANTI-RAID-BOT/tree/main/admin)
+- [🎉・Anti-Raid](https://github.com/Scythe3Fury/ANTI-RAID-BOT/tree/main/antiraid)
+- [⚙・Main Files](https://github.com/Scythe3Fury/ANTI-RAID-BOT/blob/main/index.js)
 
 ```js
 > Anti Raid Commands
@@ -26,12 +26,12 @@ This bot is made to protect Discord servers from raids, it can't raid.
 ## <a id="setup"></a> 📁 » Run It
 
 1. Download [Nodejs Version 16.19.0](https://nodejs.org/ko/blog/release/v16.19.0/)
-2. Open [config.js](https://github.com/natrixdev/Yakao-AntiRaid-bot/blob/main/config.js) 
-3. Click on [start.bat](https://github.com/natrixdev/Yakao-AntiRaid-bot/blob/main/start.bat)
+2. Open [config.js](https://github.com/Scythe3Fury/ANTI-RAID-BOT/blob/main/config.js) 
+3. Start on [index.js](https://github.com/Scythe3Fury/ANTI-RAID-BOT/blob/main/index.js)
 
 # <a id="config"></a>⚙ » Config
 
-If you want to change the config, open up [config.js](https://github.com/natrixdev/Yakao-AntiRaid-bot/blob/main/config.js) and locate it at the top. There you can configure the following:
+If you want to change the config, open up [config.js](https://github.com/Scythe3Fury/ANTI-RAID-BOT/blob/main/config.js) and locate it at the top. There you can configure the following:
 
 ```js
 module.exports = {
