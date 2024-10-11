@@ -14,7 +14,7 @@ This bot is made to protect Discord servers from raids, it can't raid.
 - [🎉・Run It](#setup)
 - [⚙・Config](#config)
 
-```
+```js
 > Anti Raid Commands
 > Utility Commands
 > Moderation Commands
